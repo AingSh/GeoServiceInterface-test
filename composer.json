@@ -1,5 +1,5 @@
 {
-    "name": "alexander/geo-service-interface",
+    "name": "aingshint/geo-service-interface",
     "type": "library",
     "license": "MIT",
     "autoload": {
