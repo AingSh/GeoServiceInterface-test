@@ -1,0 +1,17 @@
+{
+    "name": "alexander/geo-service-interface",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Alexander\\GeoServiceInterface\\": "./src"
+        }
+    },
+    "authors": [
+        {
+            "name": "alexander",
+            "email": "alex.shklyarenko22@gmail.com"
+        }
+    ],
+    "require": {}
+}
