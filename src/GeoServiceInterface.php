@@ -1,6 +1,6 @@
 <?php
 
-namespace Alexander\GeoServiceInterfaceTest;
+namespace Alexander\GeoServiceInterface;
 /**
  * @Package AingSh\Alexander\PackageHillelGeoTest v1.0.0 =)
  */
